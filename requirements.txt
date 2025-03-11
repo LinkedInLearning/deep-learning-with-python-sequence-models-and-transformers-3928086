@@ -3,4 +3,3 @@ tensorflow-cpu
 keras<3.0
 transformers
 ipywidgets
-ipykernel
