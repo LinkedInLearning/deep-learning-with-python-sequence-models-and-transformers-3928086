@@ -1,7 +1,5 @@
 requests>=2.28
-tensorflow
-keras
-pandas
-numpy
-matplotlib
-seaborn
+tensorflow-cpu
+keras<3.0
+transformers
+ipywidgets
